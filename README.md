@@ -1,7 +1,7 @@
 # Cs534-MACHINE-LEARNING
 
-MACHINE LEARNING (CS_534_001_F2019)
-Jump to Today
+MACHINE LEARNING 
+
  
  
 Course Information 
